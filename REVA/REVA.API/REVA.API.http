@@ -1,0 +1,6 @@
+@REVA.API_HostAddress = http://localhost:5287
+
+GET {{REVA.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

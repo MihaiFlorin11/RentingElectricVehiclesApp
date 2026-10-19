@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="REVA.API/REVA.API.csproj" />
+  <Project Path="REVA.Application/REVA.Application.csproj" Id="d2514a72-25c2-48b9-b7c6-893307ac0239" />
+  <Project Path="REVA.Domain/REVA.Domain.csproj" Id="e7bd04c5-c8ef-4f28-90f8-244f55118361" />
+  <Project Path="REVA.Infrastructure/REVA.Infrastructure.csproj" Id="20d85867-7667-45ab-96cc-0a070372c43b" />
 </Solution>
